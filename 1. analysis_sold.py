@@ -23,21 +23,18 @@ df202404 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202404_filled.
 df202405 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202405_filled.csv", encoding="ISO-8859-1")
 df202406 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202406_filled.csv", encoding="ISO-8859-1")
 df202407 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202407_filled.csv", encoding="ISO-8859-1")
-
-#starting in August 2024, we get latest monthly dataset from flaskapi/raw folder  instead of generating it from crmls_sold.py
-#in Inmotionhosting
 df202408 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202408.csv", encoding="ISO-8859-1")
 df202409 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202409.csv", encoding="ISO-8859-1")
 df202410 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202410.csv", encoding="ISO-8859-1")
 df202411 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202411.csv", encoding="ISO-8859-1")
 df202412 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202412.csv", encoding="ISO-8859-1")
+
 df202501 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202501_filled.csv", encoding="ISO-8859-1")
 df202502 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202502.csv", encoding="ISO-8859-1")
 df202503 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202503.csv", encoding="ISO-8859-1")
 df202504 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202504.csv", encoding="ISO-8859-1")
 df202505 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202505.csv", encoding="ISO-8859-1")
 df202506 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202506.csv", encoding="ISO-8859-1")
-
 df202507 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202507.csv", encoding="ISO-8859-1")
 df202508 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202508.csv", encoding="ISO-8859-1")
 df202509 = pd.read_csv("/Users/idxexchange/Desktop/crmls/CRMLSSold202509.csv", encoding="ISO-8859-1")
